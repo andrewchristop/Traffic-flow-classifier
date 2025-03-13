@@ -1,0 +1,5 @@
+train: ../cctv_dataset/train/images
+val: ../cctv_dataset/valid/images
+
+nc: 1
+names: ['car']
