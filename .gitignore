@@ -1,4 +1,6 @@
 __pycache__/
+datasets/
+runs/detect/val*
 .DS_Store
 *.swp
 *.swo
